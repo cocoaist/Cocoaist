@@ -1,0 +1,89 @@
+/*
+ *	Title: CSS Styles for cocoaist.org
+ *	Date: May 13, 2012
+ *  Author: Taylan Pince (taylan at hippofoundry dot com)
+ */
+
+
+/* @group Global */
+
+body {
+    background-color: #ede4d3;
+    background-image:url('../images/Hackathon-Repeat-Header.png');
+    background-repeat:repeat-x;
+}
+
+a {
+    font-weight: bold;
+    color: #DF3A1B;
+}
+a:visited{
+    color: #5E3A14;   
+}
+
+#Container {
+    width: 640px;
+    padding: 0px 8px 0px 8px;
+    margin: 20px auto 10px auto;
+}
+
+#BigLogo {
+    height: 55px;
+    display: block;
+    text-indent: -9999px;
+    margin: 0px 0px 25px 0px;
+    background: transparent url("../images/logo-cocoaist.png") 50% 50% no-repeat;
+}
+
+#BigLogoHackathon {
+    height: 150px;
+    display: block;
+    text-indent: -9999px;
+    margin: 100px 0px 25px 0px;
+    background: transparent url("../images/logo-hackathon.png") 50% 50% no-repeat;
+}
+
+hr {
+    height: 1px;
+    border: none;
+    background-color: #bf380e;
+    margin: 0px 25px 15px 25px;
+}
+
+p.small {
+    font-size: .75em;
+}
+
+p.right {
+    text-align: right;
+}
+
+/* @end */
+
+
+/* @group Responsive */
+
+/* 6 column if under 480 (6) */
+@media screen and (max-width: 640px) {
+    #Container {
+        width: 480px;
+    }
+}
+
+/* 4 column for iPhone */
+@media screen and (max-width: 479px) {
+    #Container {
+        width: 320px;
+    }
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+    
+    #BigLogo {
+        background-size: 304px 55px;
+        background-image: url("../images/logo-cocoaist@2x.png");
+    }
+    
+}
+
+/* @end */
