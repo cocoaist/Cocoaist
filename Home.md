@@ -20,6 +20,15 @@ izleyerek gelişmelerden haberdar olabilirsiniz.
 Çevrenize haberi yayın, Mac ve iOS programcıları toplanıyor!
 
 
+23 Kasım 2013 Toplantısı
+------------------------
+Tarih: 23 Kasım Cumartesi  
+Saat: 16:00  
+Etkinlik Detayları: <http://tinyurl.com/cocoaist-23-kasim>  
+Yer: [Public House](https://foursquare.com/v/public-house-asmalı-mescit/523c833411d2737386e54644)  
+Adres: Asmalı Mescit Caddesi No:9  
+
+
 4 Mayıs 2013 Toplantısı
 -----------------------
 Tarih: 4 Mayıs Cumartesi  
