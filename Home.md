@@ -20,6 +20,15 @@ izleyerek gelişmelerden haberdar olabilirsiniz.
 Çevrenize haberi yayın, Mac ve iOS programcıları toplanıyor!
 
 
+12 Mayıs 2014 Toplantısı
+------------------------
+Tarih: 12 Mayıs Pazartesi  
+Saat: 19:00  
+Etkinlik Detayları: <https://ti.to/cocoaist/12-mayis-toplantisi>  
+Yer: [Public House](https://foursquare.com/v/public-house-asmalı-mescit/523c833411d2737386e54644)  
+Adres: Asmalı Mescit Caddesi No:9  
+
+
 23 Kasım 2013 Toplantısı
 ------------------------
 Tarih: 23 Kasım Cumartesi  
