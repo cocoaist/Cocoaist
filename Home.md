@@ -5,9 +5,7 @@
 paylaşımını hızlandırmak ve Türkiye'de kaliteli Cocoa programları geliştiren 
 yazılımcılar arasında bir diyalog başlatmak istiyoruz.
 
-İlk Cocoaist buluşması 19 Mayıs 2012 tarihinde gerçekleşti. İkinci buluşmamızı 
-19 Ekim 2012'de gerçekleştireceğiz. Bu tanışma ve kaynaşma toplantılarından 
-sonra her ay tekrarlanacak, sunumlu ve düzenli bir organizasyon haline gelmek 
+İlk Cocoaist buluşması 19 Mayıs 2012 tarihinde gerçekleşti ve sonrasında 5 etkinlik daha gerçekleştirdik. Bu tanışma ve kaynaşma toplantılarından sonra her ay tekrarlanacak, sunumlu ve düzenli bir organizasyon haline gelmek 
 ilk amacımız.
 
 Eğer Mac veya iOS üzerinde yazılım geliştiriyorsanız veya bu konu ilginizi çekiyorsa, 
