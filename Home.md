@@ -13,7 +13,7 @@ Google Groups'taki [Cocoaist listesine](https://groups.google.com/forum/?fromgro
 üye olarak başlayabilirsiniz.
 
 Ayrıca bizi Twitter'da [@cocoaist](https://twitter.com/#!cocoaist) üzerinden 
-izleyerek gelişmelerden haberdar olabilirsiniz.
+izleyerek veya Facebook'taki [Cocoaist grubuna](https://www.facebook.com/groups/cocoaist) üye olarak gelişmelerden haberdar olabilirsiniz.
 
 Çevrenize haberi yayın, Mac ve iOS programcıları toplanıyor!
 
