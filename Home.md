@@ -19,11 +19,11 @@ izleyerek veya Facebook'taki [Cocoaist grubuna](https://www.facebook.com/groups/
 
 WWDC 2014 Toplantısı
 -------------------------
-Tarih: 2 Haziran Pazartesi
-Saat: 10:00
-Etkinlik Detayları: <https://ti.to/cocoa-istanbul/wwdc-2014>
-Yer: N/A
-Adres: N/A
+Tarih: 2 Haziran Pazartesi  
+Saat: 10:00  
+Etkinlik Detayları: <https://ti.to/cocoa-istanbul/wwdc-2014>  
+Yer: N/A  
+Adres: N/A  
 
 12 Mayıs 2014 Toplantısı
 ------------------------
