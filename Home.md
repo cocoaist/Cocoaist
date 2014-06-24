@@ -19,11 +19,11 @@ izleyerek veya Facebook'taki [Cocoaist grubuna](https://www.facebook.com/groups/
 
 27 Haziran 2014 Toplantısı
 --------------------------
-Tarih: 27 Haziran Cuma
-Saat: 20:00
-Etkinlik Detayları: <https://ti.to/cocoaist/27-haziran-toplants>
-Yer: [Public House](https://foursquare.com/v/public-house-asmalı-mescit/523c833411d2737386e54644)
-Adres: Asmalı Mescit Caddesi No:9
+Tarih: 27 Haziran Cuma  
+Saat: 20:00  
+Etkinlik Detayları: <https://ti.to/cocoaist/27-haziran-toplants>  
+Yer: [Public House](https://foursquare.com/v/public-house-asmalı-mescit/523c833411d2737386e54644)  
+Adres: Asmalı Mescit Caddesi No:9  
 
 WWDC 2014 Toplantısı
 -------------------------
