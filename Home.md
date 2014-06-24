@@ -17,12 +17,20 @@ izleyerek veya Facebook'taki [Cocoaist grubuna](https://www.facebook.com/groups/
 
 Çevrenize haberi yayın, Mac ve iOS programcıları toplanıyor!
 
+27 Haziran 2014 Toplantısı
+--------------------------
+Tarih: 27 Haziran Cuma
+Saat: 20:00
+Etkinlik Detayları: <https://ti.to/cocoaist/27-haziran-toplants>
+Yer: [Public House](https://foursquare.com/v/public-house-asmalı-mescit/523c833411d2737386e54644)
+Adres: Asmalı Mescit Caddesi No:9
+
 WWDC 2014 Toplantısı
 -------------------------
 Tarih: 2 Haziran Pazartesi  
 Saat: 10:00  
 Etkinlik Detayları: <https://ti.to/cocoa-istanbul/wwdc-2014>  
-Yer: N/A  
+Yer: [Public House](https://foursquare.com/v/public-house-asmalı-mescit/523c833411d2737386e54644)
 Adres: N/A  
 
 12 Mayıs 2014 Toplantısı
