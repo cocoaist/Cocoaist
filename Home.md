@@ -18,7 +18,7 @@ izleyerek veya Facebook'taki [Cocoaist grubuna](https://www.facebook.com/groups/
 Çevrenize haberi yayın, Mac ve iOS programcıları toplanıyor!
 
 9 Eylül 2014 Toplantısı
---------------------------
+-----------------------
 Tarih: 9 Eylül Salı  
 Saat: 19:00  
 Etkinlik Detayları: <https://ti.to/kokoist/9-eylul-toplantisi>  
