@@ -17,6 +17,14 @@ izleyerek veya Facebook'taki [Cocoaist grubuna](https://www.facebook.com/groups/
 
 Çevrenize haberi yayın, Mac ve iOS programcıları toplanıyor!
 
+9 Eylül 2014 Toplantısı
+--------------------------
+Tarih: 9 Eylül Salı  
+Saat: 19:00  
+Etkinlik Detayları: <https://ti.to/kokoist/9-eylul-toplantisi>  
+Yer: [Public House](https://foursquare.com/v/public-house-asmalı-mescit/523c833411d2737386e54644)  
+Adres: Asmalı Mescit Caddesi No:9 
+
 27 Haziran 2014 Toplantısı
 --------------------------
 Tarih: 27 Haziran Cuma  
