@@ -5,17 +5,40 @@
 paylaşımını hızlandırmak ve Türkiye'de kaliteli Cocoa programları geliştiren 
 yazılımcılar arasında bir diyalog başlatmak istiyoruz.
 
-İlk Cocoaist buluşması 19 Mayıs 2012 tarihinde gerçekleşti ve sonrasında 5 etkinlik daha gerçekleştirdik. Bu tanışma ve kaynaşma toplantılarından sonra her ay tekrarlanacak, sunumlu ve düzenli bir organizasyon haline gelmek 
+İlk Cocoaist buluşması 19 Mayıs 2012 tarihinde gerçekleşti ve sonrasında birçok etkinlik daha gerçekleştirdik. Bu tanışma ve kaynaşma toplantılarından sonra her ay tekrarlanacak, sunumlu ve düzenli bir organizasyon haline gelmek 
 ilk amacımız.
 
 Eğer Mac veya iOS üzerinde yazılım geliştiriyorsanız veya bu konu ilginizi çekiyorsa, 
-Google Groups'taki [Cocoaist listesine](https://groups.google.com/forum/?fromgroups#!forum/cocoaist) 
-üye olarak başlayabilirsiniz.
+Google Groups'taki [Cocoaist listesine](https://groups.google.com/forum/?fromgroups#!forum/cocoaist) üye olarak veya [Slack grubumuza](http://joinslack.hipolabs.com/invite/cocoaist) katılarak başlayabilirsiniz.
 
 Ayrıca bizi Twitter'da [@cocoaist](https://twitter.com/#!cocoaist) üzerinden 
 izleyerek veya Facebook'taki [Cocoaist grubuna](https://www.facebook.com/groups/cocoaist) üye olarak gelişmelerden haberdar olabilirsiniz.
 
 Çevrenize haberi yayın, Mac ve iOS programcıları toplanıyor!
+
+WWDC 2015 Toplantısı
+-----------------------
+Tarih: 8 Haziran Pazartesi  
+Saat: 20:00  
+Etkinlik Detayları: <http://www.meetup.com/cocoaist/events/222824738/>  
+Yer: [Hipo ofisi](https://www.google.com/maps/place/Hep+%C4%B0leti%C5%9Fim/@41.0522625,28.9864632,17z/data=!4m2!3m1!1s0x0000000000000000:0x99f52bea4f803393)  
+Adres: Tavukçu Fethi Sokak No:5 Osmanbey, İstanbul 
+
+21 Mayıs 2015 Toplantısı
+-----------------------
+Tarih: 21 Mayıs Perşembe  
+Saat: 20:00  
+Etkinlik Detayları: <http://www.meetup.com/cocoaist/events/222251967/>  
+Yer: [Hipo ofisi](https://www.google.com/maps/place/Hep+%C4%B0leti%C5%9Fim/@41.0522625,28.9864632,17z/data=!4m2!3m1!1s0x0000000000000000:0x99f52bea4f803393)  
+Adres: Tavukçu Fethi Sokak No:5 Osmanbey, İstanbul 
+
+28 Nisan 2015 Toplantısı
+-----------------------
+Tarih: 28 Nisan Salı  
+Saat: 20:00  
+Etkinlik Detayları: <http://www.meetup.com/cocoaist/events/221704108/>  
+Yer: [Hipo ofisi](https://www.google.com/maps/place/Hep+%C4%B0leti%C5%9Fim/@41.0522625,28.9864632,17z/data=!4m2!3m1!1s0x0000000000000000:0x99f52bea4f803393)  
+Adres: Tavukçu Fethi Sokak No:5 Osmanbey, İstanbul 
 
 9 Eylül 2014 Toplantısı
 -----------------------
