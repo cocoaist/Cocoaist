@@ -18,11 +18,11 @@ izleyerek veya Facebook'taki [Cocoaist grubuna](https://www.facebook.com/groups/
 
 28 Temmuz 2015 Toplantısı
 -----------------------
-Tarih: 28 Temmuz Salı
+Tarih: 28 Temmuz Salı  
 Saat: 20:00  
 Etkinlik Detayları: <http://www.meetup.com/cocoaist/events/223794863/>  
 Yer: [Hipo ofisi](https://www.google.com/maps/place/Hep+%C4%B0leti%C5%9Fim/@41.0522625,28.9864632,17z/data=!4m2!3m1!1s0x0000000000000000:0x99f52bea4f803393)  
-Adres: Tavukçu Fethi Sokak No:5 Osmanbey, İstanbul 
+Adres: Tavukçu Fethi Sokak No:5 Osmanbey, İstanbul
 
 
 WWDC 2015 Toplantısı
