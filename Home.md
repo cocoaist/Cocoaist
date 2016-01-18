@@ -16,7 +16,7 @@ izleyerek veya Facebook'taki [Cocoaist grubuna](https://www.facebook.com/groups/
 
 Çevrenize haberi yayın, Mac ve iOS programcıları toplanıyor!
 
-16 Temmuz 2016 Toplantısı
+16 Ocak 2016 Toplantısı
 -----------------------
 Tarih: 16 Ocak 2016
 Saat: 10:00  
