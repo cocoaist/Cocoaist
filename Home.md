@@ -16,10 +16,22 @@ izleyerek veya Facebook'taki [Cocoaist grubuna](https://www.facebook.com/groups/
 
 Çevrenize haberi yayın, Mac ve iOS programcıları toplanıyor!
 
+16 Temmuz 2016 Toplantısı
+-----------------------
+Tarih: 16 Ocak 2016
+Saat: 10:00  
+Konuşmacılar:  
+Aslı Sabancı - [AppCode IDE'si](https://speakerdeck.com/kirkiki/appcode-why-not)  
+Mert Ahmet Güneş - [Objective C'den Swift'e geçiş](http://slides.com/gunesmert/objective-c-denswift-egecis)  
+Etkinlik Detayları: <http://www.meetup.com/cocoaist/events/227823276/>  
+Yer: [Hipo ofisi](https://www.google.com/maps/place/Hep+%C4%B0leti%C5%9Fim/@41.0522625,28.9864632,17z/data=!4m2!3m1!1s0x0000000000000000:0x99f52bea4f803393)  
+Adres: Tavukçu Fethi Sokak No:5 Osmanbey, İstanbul
+
 28 Temmuz 2015 Toplantısı
 -----------------------
 Tarih: 28 Temmuz Salı  
 Saat: 20:00  
+Konuşmacı: Ahmet Karalar - Autolayout için Tüyolar  
 Etkinlik Detayları: <http://www.meetup.com/cocoaist/events/223794863/>  
 Yer: [Hipo ofisi](https://www.google.com/maps/place/Hep+%C4%B0leti%C5%9Fim/@41.0522625,28.9864632,17z/data=!4m2!3m1!1s0x0000000000000000:0x99f52bea4f803393)  
 Adres: Tavukçu Fethi Sokak No:5 Osmanbey, İstanbul
@@ -37,6 +49,7 @@ Adres: Tavukçu Fethi Sokak No:5 Osmanbey, İstanbul
 -----------------------
 Tarih: 21 Mayıs Perşembe  
 Saat: 20:00  
+Konuşmacı: Aslı Sabancı - Interface Builder'ın Güzellikleri  
 Etkinlik Detayları: <http://www.meetup.com/cocoaist/events/222251967/>  
 Yer: [Hipo ofisi](https://www.google.com/maps/place/Hep+%C4%B0leti%C5%9Fim/@41.0522625,28.9864632,17z/data=!4m2!3m1!1s0x0000000000000000:0x99f52bea4f803393)  
 Adres: Tavukçu Fethi Sokak No:5 Osmanbey, İstanbul 
@@ -45,6 +58,7 @@ Adres: Tavukçu Fethi Sokak No:5 Osmanbey, İstanbul
 -----------------------
 Tarih: 28 Nisan Salı  
 Saat: 20:00  
+Konuşmacı: Furkan Cengiz - Functional Programming  
 Etkinlik Detayları: <http://www.meetup.com/cocoaist/events/221704108/>  
 Yer: [Hipo ofisi](https://www.google.com/maps/place/Hep+%C4%B0leti%C5%9Fim/@41.0522625,28.9864632,17z/data=!4m2!3m1!1s0x0000000000000000:0x99f52bea4f803393)  
 Adres: Tavukçu Fethi Sokak No:5 Osmanbey, İstanbul 
