@@ -16,6 +16,23 @@ izleyerek veya Facebook'taki [Cocoaist grubuna](https://www.facebook.com/groups/
 
 Çevrenize haberi yayın, Mac ve iOS programcıları toplanıyor!
 
+WWDC 2016 Toplantısı
+-----------------------
+Tarih: 13 Haziran Pazartesi  
+Saat: 19:00  
+Etkinlik Detayları: <http://www.meetup.com/cocoaist/events/231386584/>  
+Yer: [Hipo ofisi](https://www.google.com/maps/place/Hep+%C4%B0leti%C5%9Fim/@41.0522625,28.9864632,17z/data=!4m2!3m1!1s0x0000000000000000:0x99f52bea4f803393)  
+Adres: Tavukçu Fethi Sokak No:5 Osmanbey, İstanbul
+
+16 Mayıs 2016 Toplantısı
+-----------------------
+Tarih: 16 Mayıs Pazartesi  
+Saat: 19:00  
+Konuşmacı: Hakan Demiröz - tvOS Uygulamaları  
+Etkinlik Detayları: <http://www.meetup.com/cocoaist/events/230568876/>  
+Yer: [Hipo ofisi](https://www.google.com/maps/place/Hep+%C4%B0leti%C5%9Fim/@41.0522625,28.9864632,17z/data=!4m2!3m1!1s0x0000000000000000:0x99f52bea4f803393)  
+Adres: Tavukçu Fethi Sokak No:5 Osmanbey, İstanbul
+
 29 Şubat 2016 Toplantısı
 -----------------------
 Tarih: 29 Şubat Pazartesi  
